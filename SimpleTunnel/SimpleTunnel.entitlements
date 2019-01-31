@@ -14,11 +14,11 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.comnexusguard.SimpleTunnel</string>
+		<string>group.dev.vbonnet.NetworkExtension</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.apple.managed.vpn.shared</string>
+		<string>$(AppIdentifierPrefix)dev.vbonnet.SimpleTunnel</string>
 	</array>
 </dict>
 </plist>
